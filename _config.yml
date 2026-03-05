@@ -13,7 +13,7 @@ title                    : "Base de Datos"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
-baseurl: "/bdd-fiuba"
+baseurl: "/web"
 url: "https://base-de-datos-fiuba.github.io"
 repository               : "academicpages/academicpages.github.io"
 

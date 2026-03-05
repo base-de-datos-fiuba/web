@@ -9,7 +9,7 @@ redirect_from:
 
 Este es el sitio de la materia Base de Datos(Cátedra Román) de la Facultad de Ingeniería de la Universidad de Buenos Aires(FIUBA).
 
-Ante cualquier duda o fallo en esta página, se le pide al usuario contactar a los integrantes del [Plantel Docente](/bdd-fiuba/docentes/). Se intentará resolver el problema a la brevedad.
+Ante cualquier duda o fallo en esta página, se le pide al usuario contactar a los integrantes del [Plantel Docente](/web/docentes/). Se intentará resolver el problema a la brevedad.
 
 <!--Fechas de Coloquio - Segundo Cuatrimestre de 2025
 ======
