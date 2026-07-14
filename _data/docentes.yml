@@ -84,9 +84,7 @@ current:
     email: "gsabatino@fi.uba.ar"
     slack: "https://basededatosfiuba.slack.com/team/U0AEJ6KKD9D"
 
-  
-
-
-
-
-
+  - name: "Sara Luján"
+    image: "/images/docentes/sara.png"
+    email: "scasahuaman@fi.uba.ar"
+    slack: "https://basededatosfiuba.slack.com/team/U0AKBHALMS9"
