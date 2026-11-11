@@ -11,13 +11,13 @@ Este es el sitio de la materia Base de Datos(Cátedra Román) de la Facultad de 
 
 Ante cualquier duda o fallo en esta página, se le pide al usuario contactar a los integrantes del [Plantel Docente](/web/docentes/). Se intentará resolver el problema a la brevedad.
 
-Fechas de Coloquio - Primer Cuatrimestre de 2026
+Fechas de Coloquio - Segundo Cuatrimestre de 2026
 ======
-- Primera fecha: Miércoles 01 de julio, aula 414, 19.00hs
-- Segunda fecha: Miércoles 08 de julio, aula 411, 19.00hs
-- Tercera fecha: Miércoles 22 de julio, aula 411, 19.00hs
-- Cuarta fecha: Miércoles 05 de agosto, aula 411, 19.00hs
-- Quinta fecha: Miércoles 12 de agosto, aula 411, 19.00hs
+- Primera fecha: Miércoles 09 de diciembre, aula a confirmar, 19.00hs
+- Segunda fecha: Miércoles 16 de diciembre, aula a confirmar, 19.00hs
+- Tercera fecha: Miércoles 17 de febrero, aula a confirmar, 19.00hs
+- Cuarta fecha: Miércoles 24 de febrero, aula a confirmar, 19.00hs
+- Quinta fecha: Miércoles 03 de marzo, aula a confirmar, 19.00hs
 
 Objetivos
 ======
